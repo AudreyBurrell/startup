@@ -30,7 +30,7 @@ Looking for a way to easily create art and share it with others? It doesn't matt
 
 ### Design
 
-![Design image](placeholder.png)
+![An image of the way the website will work, showing the login screen, the canvas screen, the gallery, and the place where you share the image with someone via email or phone number.](https://photos.app.goo.gl/J7LDALn1ik8kcQXD8)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
