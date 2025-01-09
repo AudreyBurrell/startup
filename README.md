@@ -1,4 +1,4 @@
-# Your startup name here
+# Doodle Drop
 
 [My Notes](notes.md)
 
