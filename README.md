@@ -18,11 +18,11 @@ This application will allow the user to draw something, save it to a "gallery", 
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] Proper use of Markdown
+- [x] Proper use of Markdown
 - [x] A concise and compelling elevator pitch
 - [x] Description of key features
-- [ ] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [x] Description of how you will use each technology
+- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
@@ -36,12 +36,6 @@ Looking for a way to easily create art and share it with others? It doesn't matt
 Here is how users would interact with the backend...
 ![An image of the way users could interact with the backend](https://github.com/user-attachments/assets/855ca8b4-a208-4d22-ab49-1e8042c9f6d2)
 
-```mermaid
-sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
-```
 
 ### Key features
 
@@ -55,12 +49,12 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - I would use HTML to create the drawing canvas and the various buttons. There will be four HTML pages. One for the login, another for the canvas, and the other two for the gallery and sharing with another person.
+- **CSS** - I would use CSS to allow the user to change colors and to clear the canvas. I would also use it to make the website pretty :). 
+- **React** - I would use this for login, sharing, and displaying previous images in the gallery
+- **Service** - Login and sharing drawings.
+- **DB/Login** - Stores user login information and securely storing them.
+- **WebSocket** - Sharing the images/drawings with others.
 
 ## 🚀 AWS deliverable
 
