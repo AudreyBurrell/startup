@@ -31,9 +31,10 @@ Looking for a way to easily create art and share it with others? It doesn't matt
 ### Design
 
 ![An image of the way the website will work, showing the login screen, the canvas screen, the gallery, and the place where you share the image with someone via email or phone number.](https://github.com/user-attachments/assets/f0aec749-36d0-49b4-a002-40c0df8bbdd1)
-)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Here is how users would interact with the backend...
+![An image of the way users could interact with the backend](https://github.com/user-attachments/assets/855ca8b4-a208-4d22-ab49-1e8042c9f6d2)
 
 ```mermaid
 sequenceDiagram
@@ -44,6 +45,7 @@ sequenceDiagram
 
 ### Key features
 
+- Login
 - Save to gallery
 - View gallery
 - Share with others
