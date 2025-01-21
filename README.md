@@ -67,14 +67,14 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [x] **HTML pages** - I added the HTML for the pages index.html, draw.html, gallery.html, and share.html
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
+- [x] **Proper HTML element usage** - Start tags. End tags. Labels and ids. The works :). 
 - [x] **Links** - I made it so the user can navigate to parts of the web page through links at the top and sometimes through buttons at the bottom.
 - [x] **Text** - There is text explaining what the user should do and their choices throughout the web page. An example of this is when the user has to enter in an email or login info.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
+- [x] **3rd party API placeholder** - There are a few placeholders (in the gallery and in share) where the user's image will eventually be.
 - [x] **Images** - There are several images that act as placeholders (the user for the website will have their own drawing that will eventually go there).
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
+- [x] **Login placeholder** - There is a place where the user can log in/register
 - [x] **DB data placeholder** - There is a way to login/register.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **WebSocket placeholder** - The user can enter an email to which their drawing will be shared.
 
 ## 🚀 CSS deliverable
 
