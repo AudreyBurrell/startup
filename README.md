@@ -66,14 +66,14 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - I added the HTML for the pages index.html, draw.html, gallery.html, and share.html
 - [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
+- [x] **Links** - I made it so the user can navigate to parts of the web page through links at the top and sometimes through buttons at the bottom.
+- [x] **Text** - There is text explaining what the user should do and their choices throughout the web page. An example of this is when the user has to enter in an email or login info.
 - [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
+- [x] **Images** - There are several images that act as placeholders (the user for the website will have their own drawing that will eventually go there).
 - [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
+- [x] **DB data placeholder** - There is a way to login/register.
 - [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
 
 ## 🚀 CSS deliverable
