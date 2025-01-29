@@ -80,12 +80,12 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Header, footer, and main content body** - I did not complete this part of the deliverable.
-- [ ] **Navigation elements** - I did not complete this part of the deliverable.
-- [ ] **Responsive to window resizing** - I did not complete this part of the deliverable.
-- [ ] **Application elements** - I did not complete this part of the deliverable.
-- [ ] **Application text content** - I did not complete this part of the deliverable.
-- [ ] **Application images** - I did not complete this part of the deliverable.
+- [x] **Header, footer, and main content body** - The headers, footers, and main styling for the body all look the same throughout the webpage. This includes background color, font-family, other colors, alignment, etc.
+- [x] **Navigation elements** - I styled the navigation elements to all look the same as well. When you hover over the links, they change colors. I also used bootstrap when making the buttons, which also take you to various pages or will allow you to do things like share the image with someone.
+- [x] **Responsive to window resizing** - I used flex on almost every page and grid on the gallery page. Bootstrap also helped with this.
+- [x] **Application elements** - I styled the buttons and the dropdowns. They are aligned.
+- [x] **Application text content** - There are labels and descriptions throughout the webpage. When the user is prompted to type something, a prompt shows up in the text box (ex: typing in an email so they can share the drawing).
+- [x] **Application images** - I made a little background for the placeholder images that matches the background of the canvas (aliceblue).
 
 ## 🚀 React part 1: Routing deliverable
 
